@@ -1,3 +1,6 @@
 [submodule "stella-with-dog-and-berry"]
 	path = stella-with-dog-and-berry
 	url = https://github.com/Techneaux/stella-with-dog-and-berry
+[submodule "stellas-rolling-dice-game"]
+	path = stellas-rolling-dice-game
+	url = https://github.com/Techneaux/stellas-rolling-dice-game
