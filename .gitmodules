@@ -4,3 +4,9 @@
 [submodule "stellas-rolling-dice-game"]
 	path = stellas-rolling-dice-game
 	url = https://github.com/Techneaux/stellas-rolling-dice-game
+[submodule "stellas-first-rpg"]
+	path = stellas-first-rpg
+	url = https://github.com/Techneaux/stellas-first-rpg
+[submodule "stella-heads-or-tails"]
+	path = stella-heads-or-tails
+	url = https://github.com/Techneaux/stella-heads-or-tails
